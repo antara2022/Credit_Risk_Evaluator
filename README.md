@@ -17,9 +17,11 @@ Classify the Risk of Loan Data using Supervised Machine Learning Models
 - Split the data into training and testing datasets by using the train_test_split function
 ### Step 4 - Create, Fit and Compare Models
 - Create a Logistic Regression model, fit it to the data, and print the model's score
+
 ![image](https://github.com/antara2022/Credit_Risk_Evaluator/assets/112270155/76f04adf-1869-4d6e-aecd-7a0b17b610f9)
 
 - Create a Random Forest Classifier model, fit it to the data, and print the model's score
+
 ![image](https://github.com/antara2022/Credit_Risk_Evaluator/assets/112270155/e46402b0-7c5c-4c6e-89c8-d0227845e5cb)
 
 - Compare model outcomes
