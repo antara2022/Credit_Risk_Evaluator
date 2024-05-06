@@ -25,7 +25,7 @@ Classify the Risk of Loan Data using Supervised Machine Learning Models
 ![image](https://github.com/antara2022/Credit_Risk_Evaluator/assets/112270155/e46402b0-7c5c-4c6e-89c8-d0227845e5cb)
 
 - Compare model outcomes
-  - Both models performed relatively equally, with scores above 0.99. The Logistic Regression scored slightly better with 0.9917, while the Random Forest Classifier scored 0.9908
+  - Both models performed relatively equally, with scores above 0.99. The Logistic Regression scored slightly better with 0.9918, while the Random Forest Classifier scored 0.9914
   - The predicted model did not score higher, however since both scores were similar, either would be a good representation to model the data
 
 Contact: antara.choudhury3000@gmail.com
